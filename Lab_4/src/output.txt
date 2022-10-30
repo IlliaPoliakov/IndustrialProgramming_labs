@@ -1,0 +1,23 @@
+
+    package lab4;
+    
+    public class Main {
+        
+        public static void main(String[] args) {
+            
+            int i  = 0;
+            String s = ;
+            char c = '\t';
+            char cc = '/';
+            String str = "'";
+            char ccc = '*';
+            char cccc = 'hjhkjhkj
+            System.out.println("/*dfsdf*////****/**//**Hello", \'world!\"); 
+            char cccc = 100/'*';
+            char f = '\\';
+            char f1 = '\n';
+            char f2 = '\"';
+            "".getBytes();
+            
+        }
+    }
